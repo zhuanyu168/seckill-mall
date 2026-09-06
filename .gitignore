@@ -1,0 +1,16 @@
+# 编译产物
+*.class
+target/
+out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
